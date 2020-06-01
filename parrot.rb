@@ -8,3 +8,4 @@ def parrot("Pretty bird!")
   
 end
 
+parrot("P")
