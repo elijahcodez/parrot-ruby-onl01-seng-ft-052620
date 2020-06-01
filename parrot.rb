@@ -1,4 +1,4 @@
-`def parrot
+def parrot
   puts "Squawk!"
   return "Squawk!"
   
@@ -6,4 +6,4 @@
   puts phrase
   phrase = "Pretty bird!"
   end
-end`
+end
