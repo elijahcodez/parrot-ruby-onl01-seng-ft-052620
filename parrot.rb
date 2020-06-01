@@ -3,3 +3,7 @@ def parrot
   phrase = "Squawk!"
   
 end 
+
+def parrot("Pretty bird!")
+  phrase = parrot("Pretty bird!")
+end
