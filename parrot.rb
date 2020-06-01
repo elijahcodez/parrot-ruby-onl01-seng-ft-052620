@@ -1,6 +1,6 @@
 def parrot(phrase)
-   puts "Squawk!"
-  return "Squawk!"
+   puts parrot
+  return parrot
   
   puts phrase
   return phrase
