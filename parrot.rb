@@ -1,6 +1,6 @@
 def parrot(phrase)
-   puts parrot(phrase)
-  return parrot(phrase)
+   puts 
+  return 
   
   puts phrase
   return phrase
